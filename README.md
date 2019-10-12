@@ -1,1 +1,13 @@
-# Unity Create With Code Prototype 5
+# Prototype 5: User Interface
+
+Starter assets for Prototype 5 from the Unity [Create With Code](https://learn.unity.com/course/create-with-code) curriculum.
+
+To get started:
+
+* Fork (skip this step if you don't have a GitHub account) this repository.
+* Clone to your development machine.
+* Launch Unity Hub and Add the cloned repository.
+* Click on the new project to launch Unity. The first time you launch it will be sloooow, like 3 or 4 minutes. Subsequent launches will be much faster.
+* Pick up the tutorial at Lesson 5.1 step 4.
+
+Assignments, for Canvas, are in the [Create With Code](https://github.com/DouglasUrner/Create-With-Code.git) repository.
